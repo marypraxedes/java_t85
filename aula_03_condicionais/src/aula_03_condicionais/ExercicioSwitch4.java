@@ -5,7 +5,6 @@ import java.util.Scanner;
 public class ExercicioSwitch4 {
 
 	public static void main(String[] args) {
-		
 		Scanner leia = new Scanner(System.in);
 		
 		int codigo;
@@ -13,7 +12,6 @@ public class ExercicioSwitch4 {
 		float novoSaldo, novoSaldoSaque, deposito, saque;
 		
 		float saldo = 1000;
-		
 		
 		System.out.println("***************************************");
 		System.out.println("           CONTA BANCÁRIA              ");
@@ -27,7 +25,6 @@ public class ExercicioSwitch4 {
 		
 		System.out.println("Operação: ");
 		codigo = leia.nextInt();
-		
 		
 		switch(codigo) {
 		case 1:
@@ -54,12 +51,7 @@ public class ExercicioSwitch4 {
 		break;
 		default:
 			System.out.println("Opção inválida!");
-		
-		
-		
 		leia.close();
-		
-
 	}
 	}
 }

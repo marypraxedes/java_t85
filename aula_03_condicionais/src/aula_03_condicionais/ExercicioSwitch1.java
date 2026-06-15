@@ -12,10 +12,8 @@ public class ExercicioSwitch1 {
 		
 		int preco = 0, quantidade = 0;
 
-		
 		valorTotal = quantidade * preco;
 				
-
 		System.out.println("***************************************");
 		System.out.println("             LANCHONETE                ");
 		System.out.println("***************************************");
@@ -63,14 +61,7 @@ public class ExercicioSwitch1 {
 		break;
 		default:
 			System.out.println("Opção inválida!");
-		
-	}
-		
+	}	
 		leia.close();
-		
-		
-		
-		
 	}
-
 }

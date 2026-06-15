@@ -1,8 +1,6 @@
-package aula_03_condicionais;
-
 import java.util.Scanner;
 
-public class ExercicioSwitch3 {
+public class Exercicio3 {
 
 	public static void main(String[] args) {
 		
@@ -62,4 +60,6 @@ public class ExercicioSwitch3 {
 		}
 		leia.close();
 	}
-}
+
+	}
+
