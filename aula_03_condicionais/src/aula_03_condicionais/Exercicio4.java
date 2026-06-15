@@ -68,11 +68,6 @@ public class Exercicio4 {
 		    }
 		}  
 		
-		
-		
-		
-		
-		
 		leia.close();
 
 	}

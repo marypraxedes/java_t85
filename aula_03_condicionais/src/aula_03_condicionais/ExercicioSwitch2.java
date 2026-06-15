@@ -2,7 +2,7 @@ package aula_03_condicionais;
 
 import java.util.Scanner;
 
-public class Exercicio2Switch {
+public class ExercicioSwitch2 {
 
 	public static void main(String[] args) {
 		
