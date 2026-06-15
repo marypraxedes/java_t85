@@ -22,7 +22,7 @@ public class PlanoSaudeCase {
 		System.out.println("     1 - De 0 a 10 anos de idade       ");
 		System.out.println("     2 - De 11 a 29 anos de idade      ");
 		System.out.println("     3 - De 30 a 45 anos de idade      ");
-		System.out.println("     3 - De 46 a 59 anos de idade      ");
+		System.out.println("     4 - De 46 a 59 anos de idade      ");
 		System.out.println("     5 - De 60 a 65 anos de idade      ");
 		System.out.println("     6 - Maiores de 65 anos            ");
 		System.out.println("                                       ");
