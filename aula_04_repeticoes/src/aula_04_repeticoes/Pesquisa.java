@@ -40,7 +40,7 @@ public class Pesquisa {
 				futebol ++;
 			
 			//Total de pessoas que gostam de volei e são maiores de 18
-			if (idade > 18 && esporte == 1);
+			if (idade > 18 && esporte == 2);
 				voleiM18 ++;
 				
 			do {
