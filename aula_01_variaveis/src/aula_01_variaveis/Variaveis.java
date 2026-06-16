@@ -12,7 +12,6 @@ public class Variaveis {
 		int numero2 = 5;
 		float numero3, numero4;
 		String nome;
-		char opcao = 'N';
 		
 		System.out.println("Variável numero1 = " + numero1);
 		System.out.println("Variável numero2 = " + numero2);
@@ -33,6 +32,8 @@ public class Variaveis {
 		
 		System.out.println("Olá " + nome + ", seja bem-vindo(a)!");
 		
+		leia.close();
+
 	}
 
 }
