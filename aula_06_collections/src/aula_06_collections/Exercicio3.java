@@ -19,7 +19,7 @@ public class Exercicio3 {
 		
 		for(Integer numero : numeros) {
 			System.out.println(numero);
-			
+		
 			
 		}
 		
