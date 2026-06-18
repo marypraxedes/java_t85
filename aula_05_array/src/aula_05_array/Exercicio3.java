@@ -34,7 +34,7 @@ public class Exercicio3 {
 		}
 
 
-		System.out.println("\n\nElementos da Diagonal Secundária:");
+		System.out.println("\nElementos da Diagonal Secundária:");
 
 		for (int contador = 0; contador < 3; contador++) {
 
