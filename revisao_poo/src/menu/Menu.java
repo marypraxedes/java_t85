@@ -1,10 +1,13 @@
-package farmacia.model;
+package menu;
 
 import java.util.InputMismatchException;
 import java.util.Optional;
 import java.util.Scanner;
 
 import farmacia.controller.ProdutoController;
+import farmacia.model.Cosmetico;
+import farmacia.model.Medicamento;
+import farmacia.model.Produto;
 
 public class Menu {
 
